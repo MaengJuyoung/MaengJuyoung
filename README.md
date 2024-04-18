@@ -18,19 +18,17 @@
 
 ## 🔭 현재 작업 중인 프로젝트
 - [CodeRoom] - 프로젝트, 공부 모집 커뮤니티
-- [MBTI Community] - MBTI기반 커뮤니티
 
 ## 🌱 최근 배우고 있는 것
-- 최신 React 기능 (Hooks, Context API 등)
-- Css 및 JavaScript 스타일링 강화 
+- 핀테크 양성을 위한 풀스택 개발자 양성 과정 (1/31 ~ 8/2)
 
 ## ✍️ 최근 블로그 포스트
-- [Velog] - https://velog.io/@snowfe/posts
+- 
 
 ## 📫 연락 방법
 
-- 연락처 : 010 - 8331 - 1930 
-- 이메일 : [snoerkr@gmail.com.com] - mailto:your-snoerkr@gmail.com.com
-- Youtube : https://www.youtube.com/channel/UC1iZXiMEallYFxN66sA1NwA
+- 연락처 : 010 - 4152 - 6302
+- 이메일 : [wndud6302@naver.com]
+- Youtube : 
 
 </div>
