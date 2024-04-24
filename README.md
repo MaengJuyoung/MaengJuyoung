@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=🚗🚘🚛&fontAlign=70) 
+![header](https://capsule-render.vercel.app/api?type=waving&color=blue&height=120&animation=fadeIn&section=footer&text=🚗🚘🚛&fontAlign=70) 
 
   <a>
     <img src="https://github-readme-stats.vercel.app/api?username=MaengJuyoung&&theme=default&show_icons=true" width="42%">
