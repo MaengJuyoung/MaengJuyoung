@@ -50,7 +50,7 @@
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=MaengJuyoung&bg_color=180,000000,&title_color=00378f&text_color=00378f"
-         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaengJuyoung&&theme=highcontrast&layout=compact&bg_color=180,000000,&title_color=00378f&text_color=00378f"
+         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaengJuyoung&theme=highcontrast&layout=compact&bg_color=180,000000,&title_color=00378f&text_color=00378f"
            /> </div> 
       
 ## 🔭 현재 작업 중인 프로젝트
