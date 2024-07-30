@@ -60,7 +60,7 @@
     </div>
 </div> <br>
 
-<div align= "center">    
+<div>    
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🔭 현재 작업 중인 프로젝트 & 작업한 프로젝트 </h2>  
     <ul style="font-weight: 700; font-size: 15px; color: #282d33;">
         <li>[Muzinut🥜] - 프로젝트, 인디 가수들을 위한 음악 커뮤니티</li>
