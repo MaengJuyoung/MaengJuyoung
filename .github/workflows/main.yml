@@ -4,21 +4,27 @@ on:
   schedule: # 03:00 JST == 18:00 UTC
     - cron: "0 18 * * *"
   workflow_dispatch:
+    inputs:
+      commit_message:
+        description: 'Commit message'
+        required: true
+        default: 'generated'
+        type: string
 
 jobs:
   build:
     runs-on: ubuntu-latest
     name: generate-github-profile-3d-contrib
     steps:
-      - uses: actions/checkout@v2
-      - uses: yoshi389111/github-profile-3d-contrib@0.6.0
+      - uses: actions/checkout@v3
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.0
         env:
           GITHUB_TOKEN: ${{ secrets.TOKEN }}
           USERNAME: ${{ github.repository_owner }}
       - name: Commit & Push
         run: |
-          git config user.name MaengJuyoung
-          git config user.email wndud6302@naver.com
+          git config user.name "MaengJuyoung"
+          git config user.email "wndud6302@naver.com"
           git add -A .
-          git commit -m "generated"
+          git commit -m "${{ github.event.inputs.commit_message }}" || echo "No changes to commit"
           git push
