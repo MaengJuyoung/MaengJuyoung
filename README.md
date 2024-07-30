@@ -58,8 +58,10 @@
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaengJuyoung&bg_color=ffffff&title_color=4c71f2&text_color=00378f&icon_color=4c71f2&border_color=ffffff&border_radius=10&langs_count=8&show_icons=true"/>
     </div> 
         <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🔭 현재 작업 중인 프로젝트 & 작업한 프로젝트 </h2>  
-        - [Muzinut🥜] - 프로젝트, 인디 가수들을 위한 음악 커뮤니티
-        - [CodeRoom] - 프로젝트, 공부 모집 커뮤니티
+        <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 
+            - [Muzinut🥜] - 프로젝트, 인디 가수들을 위한 음악 커뮤니티
+            - [CodeRoom] - 프로젝트, 공부 모집 커뮤니티
+        </div>
             
         <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🌱 최근 배우고 있는 것 & 배운 것 </h2>  
         - 핀테크 양성을 위한 풀스택 개발자 양성 과정 (1/31 ~ 8/2)
