@@ -25,6 +25,7 @@ jobs:
         run: |
           git config user.name "MaengJuyoung"
           git config user.email "wndud6302@naver.com"
+          git pull --rebase origin main
           git add -A .
           git commit -m "${{ github.event.inputs.commit_message }}" || echo "No changes to commit"
           git push
