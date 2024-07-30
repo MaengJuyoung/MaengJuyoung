@@ -53,7 +53,7 @@
         <div align= "center"> 
             <img src="https://github-readme-stats.vercel.app/api?username=MaengJuyoung&bg_color=180,000000,&title_color=00378f&text_color=00378f"/> 
             <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaengJuyoung&layout=compact&bg_color=180,000000,&title_color=00378f&text_color=00378f"/> -->
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaengJuyoung&bg_color=ffffff&title_color=4c71f2&text_color=00378f&icon_color=4c71f2&border_color=ffffff&border_radius=10&show_icons=true"/>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaengJuyoung&bg_color=ffffff&title_color=4c71f2&text_color=00378f&icon_color=4c71f2&border_color=ffffff&border_radius=10&show_icons=true&layout=compact"/>
         </div> 
       
 ## 🔭 현재 작업 중인 프로젝트
