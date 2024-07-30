@@ -59,7 +59,7 @@
     </div> 
         <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🔭 현재 작업 중인 프로젝트 & 작업한 프로젝트 </h2>  
         <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 
-            - [Muzinut🥜] - 프로젝트, 인디 가수들을 위한 음악 커뮤니티
+            - [Muzinut🥜] - 프로젝트, 인디 가수들을 위한 음악 커뮤니티<br>
             - [CodeRoom] - 프로젝트, 공부 모집 커뮤니티
         </div>
             
