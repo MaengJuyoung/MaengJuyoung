@@ -7,6 +7,7 @@
         안녕하세요!<br>
         끊임없이 도전하며 노력하는 개발자가 되고 싶은 맹주영입니다 🤩
     </div>
+        ![](./profile-3d-contrib/profile-green-animate.svg)
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
     <div style="margin: 0 auto; text-align: center;" align= "center"> 
