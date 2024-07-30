@@ -66,13 +66,16 @@
         <li>[Muzinut🥜] - 프로젝트, 인디 가수들을 위한 음악 커뮤니티</li>
         <li>[CodeRoom] - 프로젝트, 공부 모집 커뮤니티</li>
     </ul>
-</div>
+</div><br>
 
+<div align= "center">   
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🌱 최근 배우고 있는 것 & 배운 것 </h2>  
     <ul style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">
         <li>핀테크 양성을 위한 풀스택 개발자 양성 과정 (1/31 ~ 8/2)</li>
     </ul>
-        
+</div> <br>
+
+<div align= "center">   
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ✍️ 최근 블로그 포스트 </h2>  
     <ul style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">
         <li><a href="https://blog.naver.com/PostList.naver?blogId=ju_ble&categoryNo=8">개인 블로그 IT 카테고리</a></li>
@@ -81,12 +84,14 @@
         <li><a href="https://blog.naver.com/ju_ble/223447544546">깃 브랜치 전략</a></li>
         <li><a href="https://blog.naver.com/ju_ble/223444300291">디자인 패턴</a></li>
     </ul>
+</div><br>
 
+<div align= "center">   
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📫 연락 방법 </h2>  
     <ul style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">
         <li>연락처 : 010 - 4152 - 6302</li>
         <li>이메일 : wndud6302@naver.com</li>
     </ul>
-</div>
+</div><br>
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
