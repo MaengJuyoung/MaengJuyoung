@@ -7,6 +7,7 @@
     안녕하세요!<br>
     끊임없이 도전하며 노력하는 개발자가 되고 싶은 맹주영입니다 🤩
 </div>
+    
 <div align= "center">
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
 <div style="margin: 0 auto; text-align: center;" align= "center"> 
@@ -62,7 +63,7 @@
 
 <div>    
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🔭 현재 작업 중인 프로젝트 & 작업한 프로젝트 </h2>  
-    <ul style="font-weight: 700; font-size: 15px; color: #282d33;">
+    <ul style="font-weight: 700; font-size: 15px; color: #282d33; padding-left: 20px;">
         <li>[Muzinut🥜] - 프로젝트, 인디 가수들을 위한 음악 커뮤니티</li>
         <li>[CodeRoom] - 프로젝트, 공부 모집 커뮤니티</li>
     </ul>
@@ -70,14 +71,14 @@
 
 <div align= "center">   
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🌱 최근 배우고 있는 것 & 배운 것 </h2>  
-    <ul style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">
+    <ul style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33; padding-left: 20px;">
         <li>핀테크 양성을 위한 풀스택 개발자 양성 과정 (1/31 ~ 8/2)</li>
     </ul>
 </div> <br>
 
 <div align= "center">   
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ✍️ 최근 블로그 포스트 </h2>  
-    <ul style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">
+    <ul style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33; padding-left: 20px;">
         <li><a href="https://blog.naver.com/PostList.naver?blogId=ju_ble&categoryNo=8">개인 블로그 IT 카테고리</a></li>
         <li><a href="https://blog.naver.com/ju_ble/223459226432">스프링 시큐리티</a></li>
         <li><a href="https://blog.naver.com/ju_ble/223450524442">자바 예외</a></li>
@@ -88,10 +89,13 @@
 
 <div align= "center">   
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📫 연락 방법 </h2>  
-    <ul style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">
+    <ul style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33; padding-left: 20px;">
         <li>연락처 : 010 - 4152 - 6302</li>
         <li>이메일 : wndud6302@naver.com</li>
     </ul>
 </div><br>
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+<!-- 3D 잔디 이미지 -->
+<div align="center">
+    <img src="https://profile-summary-for-github.com/user/MaengJuyoung" alt="3D Green Contributions">
+</div>
