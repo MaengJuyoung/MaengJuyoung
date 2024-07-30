@@ -1,4 +1,4 @@
-__<div align= "center">
+<div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007bff,100:bef9d2&height=240&text=☃️💙🎉🍭🐳&animation=twinkling&fontColor=000000&fontSize=40&fontAlign=70" />
     </div>
     <div align= "center"> 
