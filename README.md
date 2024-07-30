@@ -96,4 +96,4 @@
 </div><br>
 
 <!-- 3D 잔디 이미지 -->
-![](./profile-3d-contrib/profile-night-view.svg)
+![](./profile-3d-contrib/profile-green-animate.svg)
