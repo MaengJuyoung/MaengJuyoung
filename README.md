@@ -5,7 +5,8 @@
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🙌 Introduce Myself </h2>  
 <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 
     안녕하세요!<br>
-    끊임없이 도전하며 노력하는 개발자가 되고 싶은 맹주영입니다 🤩
+    끊임없이 도전하며 노력하는 개발자가 되고 싶은 맹주영입니다 🤩<br>
+    문제를 해결하는 것에 성취감을 느끼고 즐겨합니다 💙
 </div>
     
 <div align= "center">
@@ -62,7 +63,7 @@
 </div> <br>
 
 <div>    
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🔭 현재 작업 중인 프로젝트 & 작업한 프로젝트 </h2>  
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🔭 최근 작업한 프로젝트 </h2>  
     <ul style="font-weight: 700; font-size: 15px; color: #282d33; padding-left: 20px;">
         <li>[Muzinut🥜] - 프로젝트, 인디 가수들을 위한 음악 커뮤니티</li>
         <li>[CodeRoom] - 프로젝트, 공부 모집 커뮤니티</li>
@@ -70,8 +71,9 @@
 </div><br>
 
 <div align= "center">   
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🌱 최근 배우고 있는 것 & 배운 것 </h2>  
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🌱 최근 공부한 것 </h2>  
     <ul style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33; padding-left: 20px;">
+        <li>정보처리기사 실기 결과 기다리는 중(2024년 제 2회 - 2024.07.28 시험, 2024.09.10 발표)</li>
         <li>핀테크 양성을 위한 풀스택 개발자 양성 과정 (1/31 ~ 8/2)</li>
     </ul>
 </div> <br>
