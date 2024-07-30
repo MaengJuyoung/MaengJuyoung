@@ -96,6 +96,4 @@
 </div><br>
 
 <!-- 3D 잔디 이미지 -->
-<div align="center">
-    <img src="https://profile-summary-for-github.com/user/MaengJuyoung" alt="3D Green Contributions">
-</div>
+![](./profile-3d-contrib/profile-night-view.svg)
