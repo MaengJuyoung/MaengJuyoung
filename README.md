@@ -3,7 +3,11 @@
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🙌 Introduce Myself </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 안녕하세요!<br>끊임없이 도전하며 노력하는 개발자가 되고 싶은 맹주영입니다 🤩 </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 
+        안녕하세요!<br>
+        끊임없이 도전하며 노력하는 개발자가 되고 싶은 맹주영입니다 🤩<br>
+        
+    </div> 
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
@@ -55,23 +59,22 @@
             <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaengJuyoung&layout=compact&bg_color=180,000000,&title_color=00378f&text_color=00378f"/> -->
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaengJuyoung&bg_color=ffffff&title_color=4c71f2&text_color=00378f&icon_color=4c71f2&border_color=ffffff&border_radius=10&langs_count=8&show_icons=true"/>
         </div> 
-
-<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🔭 현재 작업 중인 프로젝트 & 작업한 프로젝트 </h2>  
-- [Muzinut🥜] - 프로젝트, 인디 가수들을 위한 음악 커뮤니티
-- [CodeRoom] - 프로젝트, 공부 모집 커뮤니티
-
-<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🌱 최근 배우고 있는 것 & 배운 것 </h2>  
-- 핀테크 양성을 위한 풀스택 개발자 양성 과정 (1/31 ~ 8/2)
-
-<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ✍️ 최근 블로그 포스트 </h2>  
-- <a href="https://blog.naver.com/PostList.naver?blogId=ju_ble&categoryNo=8">개인 블로그 IT 카테고리</a>
-- <a href="https://blog.naver.com/ju_ble/223459226432">스프링 시큐리티</a>
-- <a href="https://blog.naver.com/ju_ble/223450524442">자바 예외</a>
-- <a href="https://blog.naver.com/ju_ble/223447544546">깃 브랜치 전략</a>
-- <a href="https://blog.naver.com/ju_ble/223444300291">디자인 패턴</a>
-
-<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📫 연락 방법 </h2>  
-- 연락처 : 010 - 4152 - 6302
-- 이메일 : [wndud6302@naver.com]
-
+            
+            <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🔭 현재 작업 중인 프로젝트 & 작업한 프로젝트 </h2>  
+            - [Muzinut🥜] - 프로젝트, 인디 가수들을 위한 음악 커뮤니티
+            - [CodeRoom] - 프로젝트, 공부 모집 커뮤니티
+            
+            <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🌱 최근 배우고 있는 것 & 배운 것 </h2>  
+            - 핀테크 양성을 위한 풀스택 개발자 양성 과정 (1/31 ~ 8/2)
+            
+            <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ✍️ 최근 블로그 포스트 </h2>  
+            - <a href="https://blog.naver.com/PostList.naver?blogId=ju_ble&categoryNo=8">개인 블로그 IT 카테고리</a>
+            - <a href="https://blog.naver.com/ju_ble/223459226432">스프링 시큐리티</a>
+            - <a href="https://blog.naver.com/ju_ble/223450524442">자바 예외</a>
+            - <a href="https://blog.naver.com/ju_ble/223447544546">깃 브랜치 전략</a>
+            - <a href="https://blog.naver.com/ju_ble/223444300291">디자인 패턴</a>
+            
+            <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📫 연락 방법 </h2>  
+            - 연락처 : 010 - 4152 - 6302
+            - 이메일 : [wndud6302@naver.com]
     </div>
