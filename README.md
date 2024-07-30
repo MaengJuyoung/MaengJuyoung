@@ -7,7 +7,7 @@
     안녕하세요!<br>
     끊임없이 도전하며 노력하는 개발자가 되고 싶은 맹주영입니다 🤩<br>
     문제를 해결하는 것에 성취감을 느끼고 즐겨합니다 💙
-</div>
+</div><br>
     
 <div align= "center">
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
@@ -41,7 +41,7 @@
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
         <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
     </div><br>
-</div>
+</div><br>
 
 <div align= "center">
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
@@ -50,8 +50,9 @@
     <a href=https://blog.naver.com/ju_ble> <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white&link=https://blog.naver.com/ju_ble"> </a>
     <a href=https://www.notion.so/0151c3227b514937a61eafd587bd2456> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://www.notion.so/0151c3227b514937a61eafd587bd2456"> </a>
 </div><br> 
+    
 <div align= "center"> <a href="https://hits.seeyoufarm.com"> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMaengJuyoung%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/></a>
-</div> 
+</div><br>
 
 <div align= "center"> 
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> 
@@ -60,7 +61,7 @@
         <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaengJuyoung&layout=compact&bg_color=180,000000,&title_color=00378f&text_color=00378f"/> -->
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaengJuyoung&bg_color=ffffff&title_color=4c71f2&text_color=00378f&icon_color=4c71f2&border_color=ffffff&border_radius=10&langs_count=8&show_icons=true"/>
     </div>
-</div> <br>
+</div><br>
 
 <div>    
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🔭 최근 작업한 프로젝트 </h2>  
@@ -73,10 +74,10 @@
 <div align= "center">   
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🌱 최근 공부한 것 </h2>  
     <ul style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33; padding-left: 20px;">
-        <li>정보처리기사 실기 결과 기다리는 중(2024년 제 2회 - 2024.07.28 시험, 2024.09.10 발표)</li>
+        <li>정보처리기사 실기 (2024년 제 2회 - 2024.07.28 시험, 2024.09.10 발표)</li>
         <li>핀테크 양성을 위한 풀스택 개발자 양성 과정 (1/31 ~ 8/2)</li>
     </ul>
-</div> <br>
+</div><br>
 
 <div align= "center">   
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ✍️ 최근 블로그 포스트 </h2>  
