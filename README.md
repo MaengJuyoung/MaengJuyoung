@@ -1,12 +1,12 @@
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007bff,100:bef9d2&height=240&text=☃️💙🎉🍭🐳&animation=twinkling&fontColor=000000&fontSize=40&fontAlign=70" />
-    </div>
-    <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🙌 Introduce Myself </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 
-        안녕하세요!<br>
-        끊임없이 도전하며 노력하는 개발자가 되고 싶은 맹주영입니다 🤩
-    </div>
+</div>
+<div align= "center"> 
+<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🙌 Introduce Myself </h2>  
+<div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 
+    안녕하세요!<br>
+    끊임없이 도전하며 노력하는 개발자가 되고 싶은 맹주영입니다 🤩
+</div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
     <div style="margin: 0 auto; text-align: center;" align= "center"> 
