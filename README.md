@@ -74,7 +74,7 @@
 <div align= "center">   
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🌱 최근 공부한 것 </h2>  
     <ul style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33; padding-left: 20px;">
-        <li>정보처리기사 실기 (2024년 제 2회 - 2024.07.28 시험, 2024.09.10 발표)</li>
+        <li>정보처리기사 실기 (2024년 제 2회 필기 합격, 3회 실기 준비 중)</li>
         <li>핀테크 양성을 위한 풀스택 개발자 양성 과정 (1/31 ~ 8/2)</li>
     </ul>
 </div><br>
