@@ -6,7 +6,7 @@
 <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 
     안녕하세요!<br>
     끊임없이 도전하며 노력하는 개발자가 되고 싶은 맹주영입니다 🤩<br>
-    문제를 해결하는 것에 성취감을 느끼고 즐겨합니다 💙
+    문제를 해결하는 것에 성취감을 느끼고 즐거워합니다 💙
 </div><br>
     
 <div align= "center">
