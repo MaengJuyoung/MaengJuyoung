@@ -12,6 +12,8 @@
 <div align= "center">
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
 <div style="margin: 0 auto; text-align: center;" align= "center"> 
+    <!-- 기술 스택 사이트 -->
+    <!-- https://github.com/Ileriayo/markdown-badges -->
     <!-- Backend -->
     <p><strong>Backend</strong></p>
     <div>
