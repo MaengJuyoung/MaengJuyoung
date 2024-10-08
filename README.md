@@ -59,10 +59,17 @@
 <div align= "center">
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
 <div align= "center">
-    <a href=https://www.instagram.com/m__jyeong/> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/m__jyeong/"> </a>
-    <!-- <a href=https://blog.naver.com/ju_ble> <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white&link=https://blog.naver.com/ju_ble"> </a> -->
-    <a href=https://juble00.tistory.com/ target="_blank">  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Tistory.svg" alt="Tistory" width="24" height="24"> </a>
-    <a href=https://www.notion.so/0151c3227b514937a61eafd587bd2456> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://www.notion.so/0151c3227b514937a61eafd587bd2456"> </a>
+    <a href=https://www.instagram.com/m__jyeong/> 
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/m__jyeong/"> 
+    </a>
+    <!-- <a href=https://blog.naver.com/ju_ble> 
+        <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white&link=https://blog.naver.com/ju_ble">         </a> -->
+    <a href="https://juble00.tistory.com/" target="_blank">  
+        <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white" alt="Tistory">
+    </a>
+    <a href=https://www.notion.so/0151c3227b514937a61eafd587bd2456> 
+        <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://www.notion.so/0151c3227b514937a61eafd587bd2456"> 
+    </a>
 </div><br> 
     
 <div align= "center"> <a href="https://hits.seeyoufarm.com"> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMaengJuyoung%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/></a>
