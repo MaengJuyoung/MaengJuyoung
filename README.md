@@ -81,7 +81,7 @@
         <!-- 깃허브 상태 -->
         <img src="https://github-readme-stats.vercel.app/api?username=MaengJuyoung&bg_color=180,000000,&title_color=00378f&text_color=00378f"/>
         <!-- 백준 티어 -->
-        <a href="https://solved.ac/profile/wndud6302/">
+        <a href="https://solved.ac/wndud6302/">
             <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wndud6302" alt="Solved.ac Profile"/>
         </a>
         <!-- 자주 사용하는 언어 -->
