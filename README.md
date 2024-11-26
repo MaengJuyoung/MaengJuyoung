@@ -90,7 +90,6 @@
             <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wndud6302" alt="Solved.ac Profile" 
                  onerror="this.src='https://via.placeholder.com/300x100?text=Badge+Unavailable'"/>
         </a>
-
     </div>
 </div><br>
 
