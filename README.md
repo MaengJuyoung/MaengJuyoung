@@ -80,13 +80,15 @@
     <div align= "center"> 
         <!-- 깃허브 상태 -->
         <img src="https://github-readme-stats.vercel.app/api?username=MaengJuyoung&bg_color=180,000000,&title_color=00378f&text_color=00378f"/>
+        <br>
+        <!-- 자주 사용하는 언어 -->
+        <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaengJuyoung&layout=compact&bg_color=180,000000,&title_color=00378f&text_color=00378f"/> -->
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaengJuyoung&bg_color=ffffff&title_color=4c71f2&text_color=00378f&icon_color=4c71f2&border_color=ffffff&border_radius=10&langs_count=8&show_icons=true"/>
+        <br>
         <!-- 백준 티어 -->
         <a href="https://solved.ac/wndud6302/">
             <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wndud6302" alt="Solved.ac Profile"/>
         </a>
-        <!-- 자주 사용하는 언어 -->
-        <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaengJuyoung&layout=compact&bg_color=180,000000,&title_color=00378f&text_color=00378f"/> -->
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaengJuyoung&bg_color=ffffff&title_color=4c71f2&text_color=00378f&icon_color=4c71f2&border_color=ffffff&border_radius=10&langs_count=8&show_icons=true"/>
     </div>
 </div><br>
 
