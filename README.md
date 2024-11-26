@@ -78,10 +78,14 @@
 <div align= "center"> 
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> 
     <div align= "center"> 
+        <!-- -->
         <img src="https://github-readme-stats.vercel.app/api?username=MaengJuyoung&bg_color=180,000000,&title_color=00378f&text_color=00378f"/>
+
+        <!-- 백준 티어 -->
+        [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wndud6302)](https://solved.ac/wndud6302/)
+
+        <!-- 자주 사용하는 언어 -->
         <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaengJuyoung&layout=compact&bg_color=180,000000,&title_color=00378f&text_color=00378f"/> -->
-        [![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj={wndud6302})](https://solved.ac/{wndud6302})
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaengJuyoung&bg_color=ffffff&title_color=4c71f2&text_color=00378f&icon_color=4c71f2&border_color=ffffff&border_radius=10&langs_count=8&show_icons=true"/>
     </div>
 </div><br>
