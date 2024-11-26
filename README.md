@@ -86,7 +86,7 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaengJuyoung&bg_color=ffffff&title_color=4c71f2&text_color=00378f&icon_color=4c71f2&border_color=ffffff&border_radius=10&langs_count=8&show_icons=true"/>
         <br>
         <!-- 백준 티어 -->
-        <a href="https://solved.ac/wndud6302/">
+        <a href="https://solved.ac/profile/wndud6302/">
             <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wndud6302" alt="Solved.ac Profile" 
                  onerror="this.src='https://via.placeholder.com/300x100?text=Badge+Unavailable'"/>
         </a>
