@@ -127,5 +127,5 @@
     </ul>
 </div><br>
 
-<!-- 3D 잔디 이미지 -->
+<!-- 3D 잔디 이미지  -->
 ![](./profile-3d-contrib/profile-gitblock.svg)
